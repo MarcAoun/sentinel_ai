@@ -1,0 +1,9 @@
+numpy
+pillow
+imutils
+picamera2
+websockets
+sounddevice
+dlib
+face_recognition
+PyQt5

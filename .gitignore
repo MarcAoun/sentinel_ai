@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Face data (personal/private)
+data/encodings.pkl
+data/known_faces/
+face_encodings.pkl
+
+# Models (large, downloaded via download_model.py)
+models/*.caffemodel
+
+# OS
+.DS_Store
+*.swp
+*.swo
